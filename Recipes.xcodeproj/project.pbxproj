@@ -17,7 +17,6 @@
 		D00C813C29EB4F8C00A81A1C /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C813B29EB4F8C00A81A1C /* Constants.swift */; };
 		D00C813E29EB5FEA00A81A1C /* DessertDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C813D29EB5FEA00A81A1C /* DessertDetailView.swift */; };
 		D00C814129EB603400A81A1C /* DessertListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C814029EB603400A81A1C /* DessertListRow.swift */; };
-		D00C814329EB653200A81A1C /* ImageCaching.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C814229EB653200A81A1C /* ImageCaching.swift */; };
 		D00C814629EB690D00A81A1C /* CachedAsyncImage in Frameworks */ = {isa = PBXBuildFile; productRef = D00C814529EB690D00A81A1C /* CachedAsyncImage */; };
 		D00C814A29EB7B8B00A81A1C /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = D00C814929EB7B8B00A81A1C /* DataService.swift */; };
 /* End PBXBuildFile section */
@@ -34,7 +33,6 @@
 		D00C813B29EB4F8C00A81A1C /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		D00C813D29EB5FEA00A81A1C /* DessertDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertDetailView.swift; sourceTree = "<group>"; };
 		D00C814029EB603400A81A1C /* DessertListRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DessertListRow.swift; sourceTree = "<group>"; };
-		D00C814229EB653200A81A1C /* ImageCaching.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCaching.swift; sourceTree = "<group>"; };
 		D00C814929EB7B8B00A81A1C /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -120,7 +118,6 @@
 			isa = PBXGroup;
 			children = (
 				D00C813B29EB4F8C00A81A1C /* Constants.swift */,
-				D00C814229EB653200A81A1C /* ImageCaching.swift */,
 			);
 			path = Helper;
 			sourceTree = "<group>";
@@ -219,7 +216,6 @@
 			files = (
 				D00C813929EB4D0600A81A1C /* Meal.swift in Sources */,
 				D00C812429EADA9200A81A1C /* DessertListView.swift in Sources */,
-				D00C814329EB653200A81A1C /* ImageCaching.swift in Sources */,
 				D00C813E29EB5FEA00A81A1C /* DessertDetailView.swift in Sources */,
 				D00C813729EADF7C00A81A1C /* DessertModel.swift in Sources */,
 				D00C813529EADC6400A81A1C /* DessertDetail.swift in Sources */,
