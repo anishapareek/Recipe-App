@@ -2,7 +2,7 @@
 //  RecipesApp.swift
 //  Recipes
 //
-//  Created by Avaneesh on 15/04/23.
+//  Created by Anisha on 15/04/23.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct RecipesApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DessertListView()
         }
     }
 }
